@@ -12,6 +12,7 @@ class MyApp extends StatelessWidget {
 
   // This widget is the root of your application.
   // hello Abdo
+  // hello 2
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
@@ -20,8 +21,3 @@ class MyApp extends StatelessWidget {
     );
   }
 }
-//login
-// 1.checkoutmaster
-// 2.update master
-// 3.create branch
-// 4. code ......
